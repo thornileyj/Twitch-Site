@@ -1,4 +1,7 @@
 .links {
+  height: 100%;
   float: left;
-  margin-left: 15px;
+  padding-left: 15px;
+  border-right: black solid 1px;
+  width: 20%;
 }
