@@ -1,0 +1,18 @@
+.side-bar {
+  height: 100%;
+  float: left;
+
+  border-right: black solid 1px;
+  width: 12%;
+}
+
+.side-bar .item {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-bottom: black solid 2px;
+
+}
+
+.side-bar .item .item-content {
+    text-align: center;
+}
