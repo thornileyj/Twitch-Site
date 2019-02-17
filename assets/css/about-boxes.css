@@ -1,0 +1,16 @@
+.about-boxes {
+  border: black solid 2px;
+  text-align: center;
+  margin: 25px;
+  display: inline-block;
+  width: 500px;
+  height: 150px;
+  float: left;
+}
+
+.about-boxes .about-headers {
+  font-family: arial;
+  font-style: italic;
+  font-weight: bold;
+
+}
