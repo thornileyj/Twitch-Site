@@ -1,4 +1,5 @@
 .side-bar {
+	display: inline-block;
 	height: 100%;
 	float: left;
 	background-color: #19171C;
