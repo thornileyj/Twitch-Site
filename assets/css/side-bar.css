@@ -1,7 +1,7 @@
 .side-bar {
 	display: inline-block;
+	vertical-align: top;
 	height: 100%;
-	float: left;
 	background-color: #19171C;
 	border-right: black solid 1px;
 	width: 12%;
