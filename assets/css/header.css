@@ -1,11 +1,11 @@
 .header {
- text-align: center;
- background-color: #4B367C
+	text-align: center;
+	background-color: #4B367C;
+	height: 15%;
 }
 
 .header-image {
-  padding-top: 10px;
-  width: 600px;
-  height: 15%;
-  padding-bottom: 10px;
+	padding-top: 10px;
+	width: 600px;
+	padding-bottom: 10px;
 }
