@@ -9,12 +9,17 @@
 }
 
 .side-bar .item {
-	padding-top: 50px;
-	padding-bottom: 50px;
 	border-bottom: black solid 2px;
 
 }
 
+.side-bar .item a {
+	text-decoration: none;
+	color: inherit;
+}
+
 .side-bar .item .item-content {
+	padding-top: 50px;
+	padding-bottom: 50px;
 	text-align: center;
 }
