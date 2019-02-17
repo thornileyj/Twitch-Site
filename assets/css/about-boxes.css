@@ -7,7 +7,6 @@
   height: 150px;
   float: left;
   background-color: #19171C
-
 }
 
 .about-boxes .about-headers {
@@ -17,11 +16,4 @@
   font-family: arial;
   font-style: italic;
   font-weight: bold;
-
-}
-
-
-.about-boxes .about-text {
-  color: #B8B5C0;
-  font-family: arial;
 }
