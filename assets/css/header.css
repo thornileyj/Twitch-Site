@@ -1,9 +1,11 @@
 .header {
  text-align: center;
+ background-color: #4B367C
 }
 
 .header-image {
+  padding-top: 10px;
   width: 600px;
-  height: 110px;
+  height: 130px;
   padding-bottom: 10px;
 }
